@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "LIZARRAGA_LUIS_PROYECTO FINAL./1.0.0": {
+        "runtime": {
+          "LIZARRAGA_LUIS_PROYECTO FINAL..dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LIZARRAGA_LUIS_PROYECTO FINAL./1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
